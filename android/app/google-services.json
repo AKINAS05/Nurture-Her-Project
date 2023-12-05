@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359415403181",
+    "project_id": "nurture-her-firebase",
+    "storage_bucket": "nurture-her-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359415403181:android:9e5a0fe096552360156c24",
+        "android_client_info": {
+          "package_name": "com.example.nurtureher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKkT8uKYQXBd1DAvTN-05sLdrDVa01iNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
